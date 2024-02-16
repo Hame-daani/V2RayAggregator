@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `5464`
+merge nodes w/o dup: `5524`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -546,7 +546,7 @@ merge nodes w/o dup: `5464`
 ### node sources
 - [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), number of nodes: `87`
 - [Nodefree.org](https://github.com/Fukki-Z/nodefree), number of nodes: `35`
-- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `151`
+- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `244`
 - [FiFier/v2rayShare](https://github.com/FiFier/v2rayShare), number of nodes: `36`
 - [huanongkejizhijia/clashnode](https://github.com/huanongkejizhijia/clashnode), number of nodes: `35`
 - [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes), number of nodes: `121`

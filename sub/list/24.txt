@@ -1,26 +1,26 @@
-  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.38.106.210, port: 14852, type: trojan, password: iJwJkTtzrZi9, sni: www.myethblog.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon EC2服务器 2, server: 3.15.86.156, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon数据中心, server: 13.39.181.101, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon EC2服务器 3, server: 3.65.145.105, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 巴黎Amazon数据中心, server: 35.180.48.182, port: 14831, type: trojan, password: 4IH3X6lcQAIO, sni: www.myethblog.com, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 巴黎Amazon数据中心 2, server: 15.188.104.158, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇮🇷 伊朗 V2CROSS.COM, server: 5.161.219.169, port: 5614, type: ss, cipher: chacha20-ietf-poly1305, password: 3--VIGPSL7RrGE5KkA-9Sg}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: www.velvetmountain.shop, port: 8080, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.velvetmountain.shop}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.20.231.30, port: 80, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: my1.tooters.ir}}}
-  - {name: 🇰🇷 韩国 首尔Amazon数据中心, server: 3.35.238.55, port: 14826, type: trojan, password: sVg5a9Ue6pZ5, sni: www.myethblog.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.27.26.29, port: 80, type: vmess, uuid: 5be8176a-f83a-4f74-e187-913a8a708904, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/telegram/xsvpn_ch?ed=2048", headers: {Host: v0.iranziba24.ir}}}
-  - {name: 🇺🇸 美国 Amazon EC2服务器 4, server: 3.132.32.73, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 172.67.204.84, port: 443, type: trojan, password: qj1Dz1CJmFQRhWr1SP80aA, sni: cdn-21.gsmxreality.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 18.170.239.237, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon EC2服务器 5, server: 3.69.111.29, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Fastly全球Anycast节点, server: fastly.com, port: 80, type: vmess, uuid: 66ccb11f-75a7-4282-8a60-31fed447401d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: nmsl.kp}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.19.171.3, port: 443, type: trojan, password: f0eb8c92ce8946aaba856569cff1a16b, sni: sherasheba.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 198.41.220.20, port: 443, type: trojan, password: e8105dfd24414268b6c7652c63731097, sni: avianrecruit.com, skip-cert-verify: false}
-  - {name: 🇫🇷 法国 巴黎Amazon数据中心 3, server: 35.181.197.133, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Amazon数据中心 3, server: v1.arvancode.eu.org, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg}
-  - {name: 🇺🇸 美国 Amazon数据中心 4, server: java.ct.arvancode.eu.org, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA}
-  - {name: 🇫🇷 法国 巴黎Amazon数据中心 4, server: 35.181.167.211, port: 14795, type: trojan, password: dUyh2f8eUkZu, sni: www.myethblog.com, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾省 中华电信(HiNet)数据中心, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 1cc969d3-1df8-4794-a5cc-9231fe0e4710}
-  - {name: 🇫🇷 法国 OVH数据中心, server: 54.38.156.210, port: 443, type: trojan, password: 9ab11330-cbfb-11ee-b443-1239d0255272, sni: sep.shaparak.ir, skip-cert-verify: false}
-  - {name: 🇮🇪 爱尔兰 都柏林Amazon数据中心, server: 52.208.63.28, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇮 芬兰 V2CROSS.COM, server: 195.20.17.224, port: 34282, type: ss, cipher: aes-256-gcm, password: fVdovvKBlC06pO7s}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.67.158.153, port: 443, type: trojan, password: 01a7ed92-3ff7-4872-84a8-fcb4757783c7, sni: rsfndc1.cpionline.us, skip-cert-verify: false}
+  - {name: 🇮🇪 爱尔兰 V2CROSS.COM, server: 108.128.247.34, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
+  - {name: 广东省江门市 移动, server: service.ouluyun9803.com, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 2770a662-61db-40ed-a17c-783e521084ce}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.27.26.29, port: 80, type: vmess, uuid: 5be8176a-f83a-4f74-e187-913a8a708904, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/telegram/xsvpn_ch?ed=2048", headers: {Host: v0.iranziba24.ir}}}
+  - {name: 广东省江门市 移动 2, server: service.ouluyun9803.com, port: 20009, type: ss, cipher: chacha20-ietf-poly1305, password: 2770a662-61db-40ed-a17c-783e521084ce}
+  - {name: 🇨🇳 上海市 UCloud, server: 106.75.223.104, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: 9236631e-9d61-4285-a1e8-3eeee2b582d6}
+  - {name: 🇫🇷 法国 巴黎Amazon数据中心, server: 35.181.167.211, port: 14977, type: trojan, password: uH6e7jUw6lzz, sni: www.myethblog.com, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Amazon数据中心, server: java.ct.arvancode.eu.org, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.21.1.28, port: 8880, type: vmess, uuid: 4b5e4565-322f-4223-a891-78a84f189726, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /XSjeg73o6ZdsheahCb5JG, headers: {Host: us-ccs.yuji2022.eu.org}}}
+  - {name: 🇺🇸 美国 Amazon数据中心 2, server: 44.217.13.206, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.miwan.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 172.67.143.221, port: 443, type: trojan, password: 5528de7e9efc37a45714fe24d7c2d7a5d19dc55a1ad162a7372d7595a14e998f, sni: m1.ifixripper.link, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡 Choopa数据中心, server: 45.76.179.201, port: 10505, type: trojan, password: AhEcWA9fka, sni: android.googleapis.com, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 172.67.68.79, port: 443, type: trojan, password: 8d0de334-c1a0-44ab-9362-e7916c0d268d, sni: sshhiddifyc1.cpionline.cc, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Amazon数据中心 3, server: 18.170.239.237, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.miwan.co.uk, skip-cert-verify: false}
+  - {name: 🇩🇪 德国 黑森州法兰克福Choopa数据中心, server: de01.hajimihajimihajimi.online, port: 80, type: vmess, uuid: 22b502a4-0886-4c97-9538-49faa23d2912, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: de01.hajimihajimihajimi.online}}}
+  - {name: 🇫🇷 法国 OVH数据中心, server: de1.test3.net, port: 443, type: trojan, password: 9ab11330-cbfb-11ee-b443-1239d0255272, sni: sep.shaparak.ir, skip-cert-verify: false}
+  - {name: 广东省 移动, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /debian, headers: {Host: data-us-v1.shwjfkw.cn}}}
+  - {name: 🇺🇸 美国 Amazon数据中心 4, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg}
+  - {name: 🇺🇸 美国 马里兰州罗耀拉大学, server: 144.126.145.219, port: 80, type: vmess, uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v118-fccxmxm35, headers: {Host: internet.life.com.by}}}
+  - {name: 广东省江门市 移动 3, server: service.ouluyun9803.com, port: 26601, type: ss, cipher: chacha20-ietf-poly1305, password: 2770a662-61db-40ed-a17c-783e521084ce}
+  - {name: 广东省江门市 移动 4, server: service.ouluyun9803.com, port: 50004, type: ss, cipher: chacha20-ietf-poly1305, password: 2770a662-61db-40ed-a17c-783e521084ce}
+  - {name: 🇺🇸 美国 V2CROSS.COM, server: 150.230.197.156, port: 80, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: my1.tooters.ir}}}
+  - {name: 🇺🇸 美国 V2CROSS.COM 2, server: 131.186.63.127, port: 80, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: my1.tooters.ir}}}
+  - {name: 🇺🇸 美国 Amazon EC2服务器, server: 3.133.136.60, port: 14971, type: trojan, password: H3PTBVGe8SjF, sni: www.myethblog.com, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 V2CROSS.COM 3, server: 154.47.20.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 美国 Amazon数据中心 5, server: 13.40.69.135, port: 14965, type: trojan, password: vL7GeNet0ZJX, sni: www.myethblog.com, skip-cert-verify: false}
