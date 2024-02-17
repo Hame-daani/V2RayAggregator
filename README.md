@@ -560,7 +560,7 @@ merge nodes w/o dup: `5744`
 - [wrfree/free](https://github.com/wrfree/free), number of nodes: `51`
 - [anaer/Sub](https://github.com/anaer/Sub), number of nodes: `666`
 - [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), number of nodes: `49`
-- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `34`
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `36`
 - [Rokate/Proxy-Sub](https://github.com/Rokate/Proxy-Sub), number of nodes: `73`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `217`
 - [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `251`
