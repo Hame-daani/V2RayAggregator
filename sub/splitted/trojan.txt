@@ -1,7 +1,7 @@
+trojan://xxoo@us.blazeppn.info:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0334
 trojan://telegram-id-privatevpns@35.181.231.85:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.181.231.85-2511
 trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@5.104.108.120:443?security=tls&sni=20-24-33-134.nhost.00cdn.com#%F0%9F%87%A9%F0%9F%87%AADE-5.104.108.120-1353
 trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@114.43.162.29:443?security=tls&sni=85d7bf8d-s95wg0-0-zzkl.tw3.p5pv.com#%F0%9F%87%B9%F0%9F%87%BCTW-114.43.162.29-1730
-trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.231-5396
 trojan://c39d5e05-3d06-317e-b5ca-e2f71b661570@azhj.xifasd.top:20767?security=tls&sni=ssl.ssl12.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-36.137.189.52-0782
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:36821?security=tls&sni=z262.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.119-0783
 trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a006.zhuan99.men:10006?security=tls&sni=zhu.99ton.men#%F0%9F%87%A8%F0%9F%87%B3CN-183.36.43.166-0784
@@ -55,8 +55,6 @@ trojan://telegram-id-directvpn@52.201.87.176:22222?security=tls&sni=trojan.miwan
 trojan://wkmY1R4EcP@45.77.167.12:443?security=tls&sni=z-v2-003319.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-45.77.167.12-0441
 trojan://telegram-id-directvpn@13.49.87.212:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.87.212-1117
 trojan://telegram-id-privatevpns@35.180.168.19:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.168.19-1130
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-180.164.83.142-5399
-trojan://xxoo@us.blazeppn.info:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0334
 trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12004?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.182.249-1230
 trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@104.19.155.92:443?security=tls&sni=sshhiddifyc1.cpionline.cc&type=ws&path=/u5ht27KSp8j3Z2QIPbkyFm3I&Host=sshhiddifyc1.cpionline.cc#%F0%9F%8F%81RELAY-104.19.155.92-1348
 trojan://dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&path=6b777a91&Host=jobscareerforlawyers.com#%F0%9F%8F%81RELAY-190.93.246.247-1349
@@ -75,6 +73,7 @@ trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@188.114.99.29:443?security=tls&sni
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1453
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=avianrecruit.com&type=ws&path=6b777a91&Host=avianrecruit.com#%F0%9F%8F%81RELAY-104.19.159.144-1456
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&path=6b777a91&Host=avianrecruit.com#%F0%9F%8F%81RELAY-198.41.220.20-1457
+trojan://telegram-id-directvpn@3.134.199.89:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.134.199.89-0284
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?security=tls&sni=sherasheba.com&type=ws&path=6b777a91&Host=sherasheba.com#%F0%9F%8F%81RELAY-104.19.171.3-1461
 trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@104.21.14.95:443?security=tls&sni=rsfndc1.cpionline.us&type=ws&path=/3D8U0cLhe2MGwH9c1eh1994&Host=rsfndc1.cpionline.us#%F0%9F%8F%81RELAY-104.21.14.95-1483
 trojan://5b4c3ff4-16c7-35f5-97e9-68eb9a053815cmynw@zhilian-in-a.cmydns2.com:443?security=tls&sni=paydiu.com&type=grpc&serviceName=mm_grpc#%F0%9F%87%AE%F0%9F%87%B3IN-45.79.124.226-1490
@@ -115,7 +114,6 @@ trojan://8ccKN8JE4JSf@3.92.190.154:12646?security=tls&sni=www.myethblog.com#%F0%
 trojan://telegram-id-privatevpns@18.153.255.154:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.153.255.154-1705
 trojan://f8d8882f-6b0f-4790-b951-fe6704ed4a92@185.22.154.254:30005?security=tls&sni=ru01.bsawc.shop#%F0%9F%87%B7%F0%9F%87%BARU-185.22.154.254-1724
 trojan://GIT5jEfQE6g0@54.92.157.6:13419?security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US-54.92.157.6-1727
-trojan://telegram-id-directvpn@3.134.199.89:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.134.199.89-0284
 trojan://09eee540-ce43-11ee-841a-1239d0255272@54.38.156.210:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-54.38.156.210-1731
 trojan://telegram-id-directvpn@13.43.104.59:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-13.43.104.59-1735
 trojan://PpQjHGVNuWSG@18.171.158.102:13411?security=tls&sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7GB-18.171.158.102-1740
@@ -168,6 +166,7 @@ trojan://origin@176.31.83.90:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-1878
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.141.99-1884
 trojan://Sp3eDVp@185.212.200.75:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-185.212.200.75-1892
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-168.138.8.86-5386
 trojan://bs6KJkPBW9MP74uHEa@de1.trojan-lite.com:443?security=tls&sni=de1.trojan-lite.com#%F0%9F%87%A9%F0%9F%87%AADE-149.50.74.62-2007
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443?security=tls&sni=upload.soft98.download#%F0%9F%87%AB%F0%9F%87%B7FR-5.135.235.163-2026
 trojan://8f677c21-f2ce-4413-907b-b9abfacc7744@xibaozi.19890604.day:10845?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-2120
@@ -221,9 +220,9 @@ trojan://8f677c21-f2ce-4413-907b-b9abfacc7744@tiananmen.19890604.day:10810?secur
 trojan://telegram-id-directvpn@3.96.13.197:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-3.96.13.197-2170
 trojan://telegram-id-directvpn@18.185.162.188:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.185.162.188-2174
 trojan://telegram-id-privatevpns@13.37.155.102:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.155.102-2183
-trojan://cca7f7dd-2458-478b-a5e9-93bba1982018@a.wuguji.xyz:5533?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-107.173.154.122-2248
 trojan://telegram-id-privatevpns@3.79.143.3:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.79.143.3-0251
 trojan://wkmY1R4EcP@108.61.203.210:443?security=tls&sni=z-v2-003322.kailib.com#%F0%9F%87%BA%F0%9F%87%B8US-108.61.203.210-0248
+trojan://cca7f7dd-2458-478b-a5e9-93bba1982018@a.wuguji.xyz:5533?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-107.173.154.122-2248
 trojan://mainssh-Vcvffty@172.67.146.69:443?security=tls&sni=uktws.mainssh.xyz&type=ws&path=%2Ftrojan&Host=uktws.mainssh.xyz#%F0%9F%8F%81RELAY-172.67.146.69-2295
 trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@104.19.154.92:443?security=tls&sni=sshhiddifyc1.cpionline.cc&type=ws&path=%2Fu5ht27KSp8j3Z2QIPbkyFm3I&Host=sshhiddifyc1.cpionline.cc#%F0%9F%8F%81RELAY-104.19.154.92-2304
 trojan://gNEUvjWDBQVV@3.99.140.159:13195?security=tls&sni=www.myethblog.com#%F0%9F%87%A8%F0%9F%87%A6CA-3.99.140.159-2484
@@ -263,6 +262,7 @@ trojan://your_password@3.35.157.103:443?security=tls&sni=aws-kr-seoul-1.f1rocket
 trojan://your_password@35.183.238.42:443?security=tls&sni=aws-ca-central-1.f1rocketnode.com#%F0%9F%87%A8%F0%9F%87%A6CA-35.183.238.42-3143
 trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com#%F0%9F%87%AF%F0%9F%87%B5JP-185.212.56.168-3144
 trojan://6a96b7c2-c918-3bb6-94b5-9861d13f9a00@47.76.34.107:443?security=tls&sni=xg107.npv4.com#%F0%9F%87%AD%F0%9F%87%B0HK-47.76.34.107-3145
+trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@104.19.154.92:443?security=tls&sni=sshhiddifyc1.cpionline.cc&type=ws&path=/u5ht27KSp8j3Z2QIPbkyFm3I&Host=sshhiddifyc1.cpionline.cc#%F0%9F%8F%81RELAY-104.19.154.92-0156
 trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?security=tls&sni=v2hgc01.fuqiangren.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.232.159.153-3684
 trojan://b46a2da5-79eb-47d1-ad1e-30b988c0f93b@v01.gutingting.com:20224?security=tls&sni=v2usa01.fuqiangren.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.232.159.153-3685
 trojan://f89390de-248e-4a5f-b50e-35be0cd965a1@v01.gutingting.com:20220?security=tls&sni=v2jp01.fuqiangren.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.232.159.153-3686
@@ -398,7 +398,6 @@ trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trny.ballistics.top:443?security=t
 trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-103.103.245.125-4180
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@20.163.90.12:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8US-20.163.90.12-4190
 trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-157.254.193.251-4195
-trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@104.19.154.92:443?security=tls&sni=sshhiddifyc1.cpionline.cc&type=ws&path=/u5ht27KSp8j3Z2QIPbkyFm3I&Host=sshhiddifyc1.cpionline.cc#%F0%9F%8F%81RELAY-104.19.154.92-0156
 trojan://mainssh-Vcvffty@172.67.146.69:443?security=tls&sni=uktws.mainssh.xyz&type=ws&path=/trojan&Host=uktws.mainssh.xyz#%F0%9F%8F%81RELAY-172.67.146.69-0147
 trojan://f34ec9d8-3ae0-46ba-94e7-a03eaf2af651@192.65.217.183:443?security=tls&sni=psg1.pqjc.buzz#%F0%9F%8F%81RELAY-192.65.217.183-4775
 trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@ssl.tcpbbr.net:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-202.64.124.148-4848
@@ -462,9 +461,10 @@ trojan://fbb2cc06-b018-4ad0-bb27-baa4a834807f@jp-cdn.iqyun.zone:29999?security=t
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.43.89-5370
 trojan://7ac49a893e0bd10c@60.249.3.227:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.227-5376
 trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-5381
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-168.138.8.86-5386
 trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-152.67.98.30-5392
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-13.75.113.138-5394
+trojan://0cc6b4268dea0ba8@60.249.3.231:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.231-5396
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-180.164.83.142-5399
 trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@de.liangyuandian.top:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-13.75.113.138-5409
 trojan://xxoo@138.124.183.226:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-138.124.183.226-5424
 trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-13.75.113.138-5427
