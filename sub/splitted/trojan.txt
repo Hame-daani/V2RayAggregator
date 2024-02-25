@@ -1,7 +1,7 @@
 trojan://xxoo@us.blazeppn.info:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-1070
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-1049
 trojan://telegram-id-privatevpns@3.78.169.76:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.78.169.76-2338
-trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@xijinping.19890604.day:10811?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-2830
+trojan://telegram-id-privatevpns@13.53.189.175:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.53.189.175-2340
 trojan://c39d5e05-3d06-317e-b5ca-e2f71b661570@azhj.xifasd.top:20767?security=tls&sni=ssl.ssl12.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-36.137.189.52-0812
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:36821?security=tls&sni=z262.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.119-0813
 trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a006.zhuan99.men:10006?security=tls&sni=zhu.99ton.men#%F0%9F%87%A8%F0%9F%87%B3CN-183.36.43.166-0814
@@ -67,9 +67,9 @@ trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@tw01.trojanyyds.xyz:443?security=t
 trojan://b59ee60f-9fa4-4770-b6a7-288620147f60@192.65.217.247:443?security=tls&sni=k5us2.yfjc.sbs&type=ws&path=/yfjc/kus2&Host=k5us2.yfjc.sbs#%F0%9F%8F%81RELAY-192.65.217.247-1508
 trojan://f34ec9d8-3ae0-46ba-94e7-a03eaf2af651@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=ws&path=/pq/us2&Host=3us2.pqjc.buzz#%F0%9F%8F%81RELAY-89.116.180.158-1510
 trojan://8c4c1021-3352-4c76-b4b6-26c38a137f92@104.17.175.159:443?security=tls&sni=jnl1.jsjc.sbs&type=ws&path=/jsjc/nl1&Host=jnl1.jsjc.sbs#%F0%9F%8F%81RELAY-104.17.175.159-1511
+trojan://ead190ad-51bf-4784-ab54-f4cc07f3e636@ca02.reami.us:11002?security=tls&sni=ca02.reami.us#%F0%9F%87%A8%F0%9F%87%A6CA-155.248.218.85-0394
 trojan://n8KmWr0Tdr@65.109.242.89:443?security=tls&sni=winstonsilver.click&type=ws&path=/HyhfFJHhuuGFDRE&Host=winstonsilver.click#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.242.89-1696
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?security=tls&sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&Host=syndication-statutes-wanted-logo.trycloudflare.com#%F0%9F%8F%81RELAY-23.227.38.11-1699
-trojan://ead190ad-51bf-4784-ab54-f4cc07f3e636@ca02.reami.us:11002?security=tls&sni=ca02.reami.us#%F0%9F%87%A8%F0%9F%87%A6CA-155.248.218.85-0394
 trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?security=tls#%F0%9F%87%BB%F0%9F%87%B3VN-103.154.63.16-2177
 trojan://telegram-id-privatevpns@3.10.121.127:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.10.121.127-2194
 trojan://DAxfd8QUywbz@3.147.193.134:17414?security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US-3.147.193.134-2199
@@ -84,7 +84,6 @@ trojan://DCs9MDcs8uDg@3.66.89.155:12637?security=tls&sni=www.myethblog.com#%F0%9
 trojan://R64w7zZvC9fF@18.133.241.120:12633?security=tls&sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7GB-18.133.241.120-2305
 trojan://H9mRSAilhbYY@34.213.209.62:12659?security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US-34.213.209.62-2337
 trojan://NRd9X9MF4fFR@18.190.160.225:12668?security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B8US-18.190.160.225-2339
-trojan://telegram-id-privatevpns@13.53.189.175:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.53.189.175-2340
 trojan://pHtm2QgltGrl@18.143.139.120:12636?security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%ACSG-18.143.139.120-2347
 trojan://915dc116-70c6-403b-8a03-18d885c311bf@95.164.46.235:443?security=tls#%F0%9F%87%AE%F0%9F%87%B9IT-95.164.46.235-2348
 trojan://mKjzQ89TCa0r@13.212.201.190:12635?security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.201.190-2369
@@ -157,6 +156,7 @@ trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@tank.19890604.day:10831?security=t
 trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@tank.19890604.day:10832?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-2827
 trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@tank.19890604.day:10833?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-2828
 trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@tank.19890604.day:10834?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-2829
+trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@xijinping.19890604.day:10811?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-2830
 trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@xijinping.19890604.day:10812?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-2831
 trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@xijinping.19890604.day:10813?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-2832
 trojan://1096b52a-75ec-4a46-bb84-eef0bf99c10b@xijinping.19890604.day:10814?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-2833
@@ -340,6 +340,7 @@ trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48465?security=t
 trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hnm.xiaohouzi.club:17113?security=tls&sni=$$hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-4878
 trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@iplc.xiaohouzi.club:20514?security=tls&sni=$$$$supaz041.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.20.137.44-4879
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17109?security=tls&sni=$$$$$hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-4880
+trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?security=tls&sni=ap-northeast-1.openssl3.com#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.212-6117
 trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app#%F0%9F%87%AC%F0%9F%87%A7GB-185.49.33.47-4884
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%AF%F0%9F%87%B5JP-23.145.24.30-4888
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@23.145.24.30:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-23.145.24.30-4889
@@ -379,7 +380,7 @@ trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@20-66-19-98.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-6011
 trojan://ed3ccb1e-7057-3d40-b794-630ef18fb7d2@20005.purefast2.com:20005?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-6016
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.61.209-6032
-trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?security=tls&sni=ap-northeast-1.openssl3.com#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.212-6117
+trojan://88c72a257a@bauhinia01.allbluedns.xyz:36106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-9058
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.155-6138
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@212.90.123.133:28443?security=tls#%F0%9F%87%BF%F0%9F%87%A6ZA-212.90.123.133-6139
 trojan://b341f309-7e2b-45c4-a316-9e23037e3711@sg.liangyuandian.top:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-40.83.121.46-6144
@@ -642,7 +643,6 @@ trojan://b00ac480-3e34-4ca9-8b3b-0b4515e4b75d@pt.mjt001.com:443?security=tls#%F0
 trojan://b09d2aaa443af97a@5.44.249.43:3306?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-8867
 trojan://faf42aa0a9ad4c1e@5.44.249.50:3306?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.50-8869
 trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-150.136.57.125-8971
-trojan://88c72a257a@bauhinia01.allbluedns.xyz:36106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-9058
 trojan://7c6e8222-26fb-43a9-9925-38529966d44f@bauhinia01.allbluedns.xyz:36606?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-9061
 trojan://7c6e8222-26fb-43a9-9925-38529966d44f@bauhinia01.allbluedns.xyz:36306?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-3.20.137.44-9063
 trojan://7c67c6e8222-26fb-43a9-9925-38529966d44f@bauhinia01.allbluedns.xyz:36206?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-3.141.96.53-9066
